@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1,HBO HD
+http://edge-aws.aovivo.club/hls/s:94.177.242.28/hbo1080p_63266754_4886236707f0195ad4296cd5f54301ad2a790d97.m3u8
+
+#EXTINF:-1,RECORD
+http://edge-aws.aovivo.club/hls/s:94.177.242.28/record_3554dce5_c360b9aa20d89f0b02ce80a44957d60e4d4c9e6a/410p/chunklist.m3u8
